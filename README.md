@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DoctorBeryl
 - 👀 I’m interested in Computer science and programming
-- 🌱 I’m currently learning cpp, cs, java
+- 🌱 I’m currently learning cpp, cs, javascript, typescript and phyton
 - 💞️ I’m looking to collaborate on Unity Projects
 - 📫 How to reach me: Don't
 - 😄 Pronouns: He/Him
